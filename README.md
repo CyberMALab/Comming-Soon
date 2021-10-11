@@ -1,5 +1,5 @@
 # Już wkrótce! 
-Pracujemy wciąż nad dalszą częścią kursu. Pojawi się ona niebawem
+Pracujemy wciąż nad dalszą częścią kursu. Pojawi się ona niebawem.
 
 ## Cykl pracy programisty:
 Bardzo ważne aby nie utknąć w nieskończonej pętli ;)
@@ -11,7 +11,7 @@ while(!works)
     printf("I hate programming\n");
     works = tryFixIt();
 }
-printf("I love programming!);
+printf("I love programming!\n");
  ```
 
 ***
