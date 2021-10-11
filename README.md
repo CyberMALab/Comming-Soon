@@ -15,6 +15,6 @@ printf("I love programming!\n");
  ```
 
 ***
- [Spis treści](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git)
+[Poprzednia część](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git) | [Spis treści](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git) |
 ***
 &copy; Cyberspace Modelling and Analysis Laboratory
