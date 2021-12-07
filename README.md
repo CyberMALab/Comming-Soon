@@ -15,6 +15,6 @@ printf("I love programming!\n");
  ```
 
 ***
-[Ostatnia dodana część](https://github.com/CyberMALab/Tablice-znakow.git) | [Spis treści](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git) 
+[Ostatnia dodana część](https://github.com/CyberMALab/Tablice-wielowymiarowe-statyczne.git) | [Spis treści](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git) 
 ***
 &copy; Cyberspace Modelling and Analysis Laboratory
